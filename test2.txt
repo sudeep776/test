@@ -1,1 +1,1 @@
-second file
+second file was changed by user1
