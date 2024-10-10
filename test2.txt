@@ -1,1 +1,2 @@
-second file was changed inside github
+second file was changed inside GitHub 
+diff to see changes
